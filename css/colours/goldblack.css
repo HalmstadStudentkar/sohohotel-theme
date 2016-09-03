@@ -88,7 +88,7 @@ blockquote,
 #footer .nsu-submit,
 .nsu-submit:hover,
 #footer .nsu-submit {
-	border-color: #bf9958;
+	border-color: #FF8A00;
 }
 
 .title-block,
@@ -123,7 +123,7 @@ a.button0,
 #footer .nsu-submit,
 .nsu-submit:hover,
 #footer .nsu-submit {
-	background: #bf9958;
+	background: #FF8A00;
 }
 
 .slider-caption p.colour-caption {
@@ -133,7 +133,7 @@ a.button0,
 .page-content p a,
 .page-content ol li a,
 .page-content ul li a {
-	color: #bf9958;
+	color: #FF8A00;
 }
 
 .facebook-icon:hover,
@@ -144,7 +144,7 @@ a.button0,
 .yelp-icon:hover,
 .instagram-icon:hover,
 .tripadvisor-icon:hover {
-	background-color: #bf9958;
+	background-color: #FF8A00;
 }
 
 /* Grey Text Elements */
@@ -238,14 +238,14 @@ a.button0,
 .dp-highlight-begin a,
 .ui-datepicker-calendar tbody tr td a.ui-state-hover,
 .dp-flip .ui-datepicker-calendar tbody tr td.dp-highlight-begin a.ui-state-hover { /* light/highlight */
-    background: #bf9958  !important; /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #424242 0%, #424242 50%, #bf9958 50%, #bf9958 100%)  !important; /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#424242), color-stop(50%,#424242), color-stop(51%,#bf9958), color-stop(100%,#bf9958))  !important; /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(-45deg, #424242 0%,#424242 50%,#bf9958 50%,#bf9958 100%)  !important; /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(-45deg, #424242 0%,#424242 50%,#bf9958 50%,#bf9958 100%)  !important; /* Opera 11.10+ */
-    background: -ms-linear-gradient(-45deg, #424242 0%,#424242 50%,#bf9958 50%,#bf9958 100%)  !important; /* IE10+ */
-    background: linear-gradient(135deg, #424242 0%,#424242 50%,#bf9958 50%,#bf9958 100%)  !important; /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#424242', endColorstr='#bf9958',GradientType=1 )  !important; /* IE6-9 fallback on horizontal gradient */
+    background: #FF8A00  !important; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #424242 0%, #424242 50%, #FF8A00 50%, #FF8A00 100%)  !important; /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#424242), color-stop(50%,#424242), color-stop(51%,#FF8A00), color-stop(100%,#FF8A00))  !important; /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg, #424242 0%,#424242 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg, #424242 0%,#424242 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg, #424242 0%,#424242 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* IE10+ */
+    background: linear-gradient(135deg, #424242 0%,#424242 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#424242', endColorstr='#FF8A00',GradientType=1 )  !important; /* IE6-9 fallback on horizontal gradient */
 }
 
 .dp-highlight-begin-blocked a,
@@ -253,38 +253,38 @@ a.button0,
 .ui-datepicker-calendar tbody tr td.dp-highlight-begin-blocked a.ui-state-hover,
 .dp-flip .ui-datepicker-calendar tbody tr td.dp-highlight-begin-blocked a.ui-state-hover,
 .dp-flip .ui-datepicker-calendar tbody tr td.dp-half-end a.ui-state-hover { /* dark/highlight */
-    background: #bf9958  !important; /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #292929 0%, #292929 50%, #bf9958 50%, #bf9958 100%)  !important; /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#292929), color-stop(50%,#292929), color-stop(51%,#bf9958), color-stop(100%,#bf9958))  !important; /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(-45deg, #292929 0%,#292929 50%,#bf9958 50%,#bf9958 100%)  !important; /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(-45deg, #292929 0%,#292929 50%,#bf9958 50%,#bf9958 100%)  !important; /* Opera 11.10+ */
-    background: -ms-linear-gradient(-45deg, #292929 0%,#292929 50%,#bf9958 50%,#bf9958 100%)  !important; /* IE10+ */
-    background: linear-gradient(135deg, #292929 0%,#292929 50%,#bf9958 50%,#bf9958 100%)  !important; /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#292929', endColorstr='#bf9958',GradientType=1 )  !important; /* IE6-9 fallback on horizontal gradient */
+    background: #FF8A00  !important; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #292929 0%, #292929 50%, #FF8A00 50%, #FF8A00 100%)  !important; /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#292929), color-stop(50%,#292929), color-stop(51%,#FF8A00), color-stop(100%,#FF8A00))  !important; /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg, #292929 0%,#292929 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg, #292929 0%,#292929 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg, #292929 0%,#292929 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* IE10+ */
+    background: linear-gradient(135deg, #292929 0%,#292929 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#292929', endColorstr='#FF8A00',GradientType=1 )  !important; /* IE6-9 fallback on horizontal gradient */
 }
 
 .dp-highlight-end a,
 .ui-datepicker-calendar tbody tr td.dp-highlight-end a.ui-state-hover,
 .dp-flip .ui-datepicker-calendar tbody tr td a.ui-state-hover { /* highlight/light */
-	background: #bf9958  !important; /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #424242 0%, #424242 50%, #bf9958 50%, #bf9958 100%)  !important; /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#424242), color-stop(50%,#424242), color-stop(51%,#bf9958), color-stop(100%,#bf9958))  !important; /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(-45deg, #424242 0%,#424242 50%,#bf9958 50%,#bf9958 100%)  !important; /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(-45deg, #424242 0%,#424242 50%,#bf9958 50%,#bf9958 100%)  !important; /* Opera 11.10+ */
-    background: -ms-linear-gradient(-45deg, #424242 0%,#424242 50%,#bf9958 50%,#bf9958 100%)  !important; /* IE10+ */
-    background: linear-gradient(135deg, #bf9958 0%,#bf9958 50%,#424242 50%,#424242 100%)  !important; /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf9958', endColorstr='#424242',GradientType=1 )  !important; /* IE6-9 fallback on horizontal gradient */
+	background: #FF8A00  !important; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #424242 0%, #424242 50%, #FF8A00 50%, #FF8A00 100%)  !important; /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#424242), color-stop(50%,#424242), color-stop(51%,#FF8A00), color-stop(100%,#FF8A00))  !important; /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg, #424242 0%,#424242 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg, #424242 0%,#424242 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg, #424242 0%,#424242 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* IE10+ */
+    background: linear-gradient(135deg, #FF8A00 0%,#FF8A00 50%,#424242 50%,#424242 100%)  !important; /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF8A00', endColorstr='#424242',GradientType=1 )  !important; /* IE6-9 fallback on horizontal gradient */
 }
 
 .dp-highlight-end-blocked a,
 .ui-datepicker-calendar tbody tr td.dp-half-begin a.ui-state-hover,
 .ui-datepicker-calendar tbody tr td.dp-highlight-end-blocked a.ui-state-hover { /* highlight/dark */
-   background: #bf9958  !important; /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #292929 0%, #292929 50%, #bf9958 50%, #bf9958 100%)  !important; /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#292929), color-stop(50%,#292929), color-stop(51%,#bf9958), color-stop(100%,#bf9958))  !important; /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(-45deg, #292929 0%,#292929 50%,#bf9958 50%,#bf9958 100%)  !important; /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(-45deg, #292929 0%,#292929 50%,#bf9958 50%,#bf9958 100%)  !important; /* Opera 11.10+ */
-    background: -ms-linear-gradient(-45deg, #292929 0%,#292929 50%,#bf9958 50%,#bf9958 100%)  !important; /* IE10+ */
-    background: linear-gradient(135deg, #bf9958 0%,#bf9958 50%,#292929 50%,#292929 100%)  !important; /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf9958', endColorstr='#292929',GradientType=1 )  !important; /* IE6-9 fallback on horizontal gradient */
+   background: #FF8A00  !important; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #292929 0%, #292929 50%, #FF8A00 50%, #FF8A00 100%)  !important; /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#292929), color-stop(50%,#292929), color-stop(51%,#FF8A00), color-stop(100%,#FF8A00))  !important; /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg, #292929 0%,#292929 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg, #292929 0%,#292929 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg, #292929 0%,#292929 50%,#FF8A00 50%,#FF8A00 100%)  !important; /* IE10+ */
+    background: linear-gradient(135deg, #FF8A00 0%,#FF8A00 50%,#292929 50%,#292929 100%)  !important; /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF8A00', endColorstr='#292929',GradientType=1 )  !important; /* IE6-9 fallback on horizontal gradient */
 }

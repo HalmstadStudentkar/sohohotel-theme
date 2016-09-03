@@ -3,7 +3,7 @@
 Theme Name: Soho Hotel
 Theme URI: http://themes.quitenicestuff.com/sohohotel
 Description: An accommodation based WordPress theme
-Version: 1.9.2
+Version: 1.9.4
 Author: quitenicestuff
 Author URI: http://themeforest.net/user/quitenicestuff
 License: GNU General Public License v2.0
@@ -857,7 +857,7 @@ blockquote p {
 	content:'';
 	width: 100px;
 	height: 3px;
-	background: #BF9958;
+	background: #FF8A00;
 }
 
 .title-style4 {
@@ -2033,6 +2033,7 @@ div.wpcf7-response-output {
 }
 
 #respond {
+    display: none;
 	margin: 40px 0 0 0;
 }
 
@@ -2124,6 +2125,14 @@ div.wpcf7-response-output {
 .booking-side .one-third-form .select-wrapper select {
 	width: 135%;
 	background-position: 62% center;
+}
+
+.key-available-wrapper {
+    display: none;
+}
+
+.key-unavailable-wrapper {
+    display: none;
 }
 
 .key-unavailable-wrapper,
@@ -3894,5 +3903,7 @@ h4.room-title {
 #footer-bottom ul li a:hover {
 	text-decoration: underline !important;
 }
+
+
 
 /* 11.0 - IE Fixes */

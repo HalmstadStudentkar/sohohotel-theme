@@ -37,9 +37,15 @@ var mapArgs = {
 	styles: gmap_styles
 };
 var mapContent = new google.maps.Map(document.getElementById('google-map-'+map_num), mapArgs);
+mapContent.Center = latlng;
+if(jQuery("#google-map-"+map_num).parent()){
+	jQuery("#google-map-"+map_num).parent().data("map",mapContent);
+	
+}
 var infoWindowContent = new google.maps.InfoWindow({
 	content: '<?php echo $marker_html ;?>'
 });
+
 var markerContent = new google.maps.Marker({
 	position: latlng,
 	map: mapContent

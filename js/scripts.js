@@ -39,7 +39,16 @@ jQuery(document).ready(function() {
 	
 	// Tabs
 	jQuery(function() {
-		jQuery( ".tabs" ).tabs();
+		jQuery( ".tabs" ).tabs({
+			activate: function (event, ui) {
+				if ( ui.newPanel.data("map") ){
+					var mapContent = ui.newPanel.data("map") ;
+					google.maps.event.trigger(mapContent, 'resize');
+					mapContent.setCenter(mapContent.Center);
+				}
+			}
+		});
+		 
 	});
 	
 	// PrettyPhoto

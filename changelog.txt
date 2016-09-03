@@ -1119,3 +1119,14 @@
 	themes/sohohotel/functions/widgets/widget-contact.php
 	themes/sohohotel/footer.php
 	themes/sohohotel/wpml-config.xml
+	
+= V1.9.3 - 16.06.2014 =
+* Fixed minor booking system bugs
+	plugins/quitenicebooking/includes/quitenicebooking_entity_per_person.class.php
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_price_filters.class.php
+	
+= V1.9.4 - 27.08.2014 =
+* Fixed bug with Google Map when placed inside jQuery tabs
+	themes/sohohotel/js/scripts.js
+	themes/sohohotel/functions/shortcodes/googlemap.php

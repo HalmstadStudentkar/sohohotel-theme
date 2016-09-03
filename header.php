@@ -28,7 +28,6 @@ include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 		// Dislay Favicon
 		if( $smof_data['favicon_url'] ) { 			
 			echo '<link rel="shortcut icon" href="' . $smof_data['favicon_url'] . '" type="image/x-icon" />';
-			echo '<link href="http://www.kohkredhomestay.com/wp-content/uploads/2015/01/apple-touch-icon-144.png" rel="apple-touch-icon">';
 		}
 	?>
 	
@@ -79,7 +78,7 @@ include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 					<?php if(is_plugin_active('quitenicebooking/quitenicebooking.php')) { ?>
 						<?php $quitenicebooking_settings = get_option('quitenicebooking'); ?>
 						<?php if (empty($quitenicebooking_settings['hide_booking_system'])) { ?>
-							<a href="<?php echo get_permalink($quitenicebooking_settings['step_1_page_id']); ?>" class="button0"><?php _e('Book Now','qns'); ?></a>
+							<a href="<?php echo get_permalink($quitenicebooking_settings['step_1_page_id']); ?>" class="button0"><?php _e('Förfrågan','qns'); ?></a>
 						<?php } ?>
 					<?php } ?>
 					
