@@ -15,3 +15,6 @@ Patches to the repository are ofc very welcome.
 
 The license for the code and all contributed patches is GPL v2 and
 specified by the upstream style.css.
+
+The theme can be bought from the upstream developer at
+   https://themeforest.net/item/soho-hotel-responsive-hotel-booking-wp-theme/5576098
